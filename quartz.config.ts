@@ -14,7 +14,7 @@ const config: QuartzConfig = {
     enablePopovers: true,
     analytics: null,
     locale: "ja-JP",
-    baseUrl: "llm-wiki.pages.dev",
+    baseUrl: "llm-wiki-2gf.pages.dev",
     ignorePatterns: [
       "private",
       "templates",
